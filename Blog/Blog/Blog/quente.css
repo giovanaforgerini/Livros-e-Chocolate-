@@ -1,0 +1,95 @@
+@font-face{
+	font-family: AmaticSC-Bold;
+	src: url('AmaticSC-Bold.ttf');
+}
+
+div.foto{
+ 	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  }
+
+img.livro{
+  	height: 250px;
+  	width: 200px;
+  	display: flex;
+  }
+
+img.livro2{
+  	height: 250px;
+  	width: 200px;
+  	display: flex;
+  	margin-left: -20px;
+  }
+
+img.acabou{
+	height:100%;
+	width: 100%;
+}
+
+div.center{
+	float: center;
+}
+
+nav.navbar{
+	background-image: url( https://lh5.googleusercontent.com/-6o_VIbxDVCk/Ud2m2NHfdcI/AAAAAAAAH9c/Suf-Xnz3pHw/s980/back_menu.png);
+	background-repeat: no-repeat;
+	margin-top: 10px;
+	background-size: 100%
+}
+
+a.nav-item{
+	font-family: AmaticSC-Bold;
+	color: white;
+	font-size: 25px;
+	margin-top: -8px;
+	margin-left: 15px;
+}
+
+a.nav-item:hover{
+	color: white;
+}
+
+h3.titulo{
+	color: #8a695e;
+    font: normal normal 28px Impact, sans-serif;
+    text-decoration: none;
+    
+}
+
+
+img.datas{
+	text-align: left;
+    line-height: 1.0em;
+    padding: 16px 0px 0px 0px;
+    margin: 0px 14px 10px -10px;
+    float: left;
+    text-align: center;
+    border: 0px dashed #dedede;
+    list-style: none;
+    display: block;
+}
+
+img.book{
+	height: 250px;
+  	width: 200px;  	
+}
+
+p.card-text{
+	margin: 0;
+    padding: 0;
+}
+
+a.card-link{
+	color: #ff7477;
+    text-decoration: underline;
+    margin: 0px 0px 0px 0px;
+    padding: 10px 0px 5px 0px;
+    line-height: 1.6em;
+    text-align: justify;
+}
+
+img.curta{
+	margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 20px;
+}
