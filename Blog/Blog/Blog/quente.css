@@ -93,3 +93,19 @@ img.curta{
 	margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 20px;
 }
+
+p.post{
+  color: gray;
+}
+
+span.nome{
+  color:  #aeb976;
+}
+
+span.coment{
+  color: #ff7477;
+}
+
+div.outro{
+  margin-top: 70px;
+}
