@@ -109,3 +109,13 @@ span.coment{
 div.outro{
   margin-top: 70px;
 }
+
+textarea.form-control{
+  width: 90%;
+  height: 2%;
+}
+
+button.af{
+  width: 60px
+}
+
