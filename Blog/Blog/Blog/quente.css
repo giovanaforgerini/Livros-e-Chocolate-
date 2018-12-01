@@ -120,13 +120,18 @@ button.af{
 }
 
 div.centro{
-  margin-left: 30%;
+  margin-left: 35%;
 }
 
 div.centro1{
-  margin-left: 38%;
+  text-align: center
 }
 
 div.centro2{
   text-align: center
+}
+
+img.resenha{
+  width: 222px;
+  height: 320px
 }
